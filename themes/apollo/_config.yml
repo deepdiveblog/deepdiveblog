@@ -1,0 +1,16 @@
+menu:
+    Blog: /
+    Archive: /archives/
+    GitHub: https://github.com/deepdiveblog
+    Rss: /atom.xml
+
+favicon: /favicon.png
+logo: /favicon.png
+
+# Comment
+# e.g disqus: seansun
+disqus:
+duoshuo:
+
+# Copyright Infomation
+startyear: 2018
